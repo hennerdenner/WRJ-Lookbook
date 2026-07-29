@@ -1,0 +1,10 @@
+# This repo holds a README and release assets — no source, no config, no data.
+# Installers are attached to Releases, never committed (they exceed GitHub's
+# 100MB per-file limit).
+*.exe
+*.msi
+*.zip
+
+# OS clutter
+Thumbs.db
+.DS_Store
