@@ -1,7 +1,7 @@
 # WRJ Lookbook
 
 Search WRJ Design's photography in plain language instead of digging through folders. Find similar
-photos, collect them into shared Boards or private Stashes, and work collaboratively to create InDesign presentations.
+photos, collect precedent images into shared Boards, save inspiration pictures in private Stashes, and work collaboratively to create InDesign presentations.
 
 This repo is installer only. The app requires Windows 10 or 11 (64-bit) and the Egnyte Drive signed in.
 
